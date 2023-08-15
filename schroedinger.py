@@ -145,7 +145,5 @@ for i, (label, explanation) in enumerate(param_labels):
     
     param_entries.append(ent)
 
-
-
 # Main loop
 root.mainloop()
